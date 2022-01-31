@@ -1,4 +1,4 @@
-# assemblyLights
+# AssemblyLights
   The purpose of this project was to create a circuit that would light up many LEDs in whichever pattern wanted. I used different types and colors of LEDs to give some creativity to it, there is also multiple patterns that can be cycled through. A push button was used to create the interrupts needed to cycle through each pattern and they will forever loop until more input is given. An initial push is required to start the infinite loop of patterns.
   
   The components used in this project were wires to connect the output ports to each individual LED and to ground them, as well as getting input. I used 4 green LEDs and 4 red LEDs in spirit of the holidays, as well as 1 multi-color LED so I had some flexibility with the different modes. A push button was used as well in this project to give the board input. There were also different types resistors used to differ the brightness of each LED. I used mostly 220 ohm resistors and one 360 ohm resistor, this was mostly to play with the hue of the multi-LED by decreasing the power going into the red pin.
